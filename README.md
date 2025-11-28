@@ -4,7 +4,7 @@ A clean, responsive web implementation of the popular 2048 sliding tile puzzle. 
 
 ## 📱 Screenshots
 
-![2048 Game - New Game Screen](https://raw.githubusercontent.com/BasimAhmedKhan/2048-Game/main/screenshots/new-game.png) 
+![2048 Game - New Game Screen](https://github.com/AlfishanShaikh/2048-game/blob/138a92056a161c2523d074e237ca458564fb7e90/banner.png) 
 
 ## 🎮 How to Play
 
