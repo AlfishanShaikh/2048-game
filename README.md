@@ -1,6 +1,11 @@
 # 2048 Game
 
 A clean, responsive web implementation of the popular 2048 sliding tile puzzle. Slide tiles on a 4x4 grid to combine matching numbers and reach the 2048 tile (or beyond!). Built with vanilla JavaScript, HTML, and CSS for smooth performance and broad browser compatibility. 
+
+## 📱 Screenshots
+
+![2048 Game - New Game Screen](https://raw.githubusercontent.com/BasimAhmedKhan/2048-Game/main/screenshots/new-game.png) 
+
 ## 🎮 How to Play
 
 - Use **arrow keys** (↑ ↓ ← →) or **swipe gestures** on mobile to slide all tiles in one direction.
